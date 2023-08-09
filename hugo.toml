@@ -65,7 +65,7 @@ paginate = 5
 [languages]
   [languages.en]
     languageName = "English"
-    title = "Terminal"
+    title = "Z-R1Nzoe's den"
     subtitle = "A simple, retro theme for Hugo"
     owner = ""
     keywords = ""
@@ -81,7 +81,7 @@ paginate = 5
     words = "words"
 
     [languages.en.params.logo]
-      logoText = "Terminal"
+      logoText = "Z-R1Nzoe"
       logoHomeLink = "/"
 
     [languages.en.menu]

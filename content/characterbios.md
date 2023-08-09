@@ -1,5 +1,5 @@
 ---
-title: "Characterbios"
+title: "Character Bios"
 date: 2023-08-09T21:23:50+01:00
 draft: true
 ---
