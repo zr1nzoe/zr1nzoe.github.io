@@ -9,7 +9,7 @@ This is a general hub for links to all of my OC's bios, including images.
 
 |Character|Link|
 |----------|--------------------|
-|Maezie |[Maezie Bio]("/characterbios/maeziebio.md")|
-|Zoe Crosse|[Zoe Bio]("/characterbios/zoebio.md")|
-|Technika Scales|[Technika Bio]("/characterbios/technikabio.md")|
-|Trace Wing|[Trace Wing Bio]("/characterbios/tracebio.md")|
+|Maezie |[Maezie Bio]("/content/characterbios/maeziebio.md")|
+|Zoe Crosse|[Zoe Bio]("/content/characterbios/zoebio.md")|
+|Technika Scales|[Technika Bio]("/content/characterbios/technikabio.md")|
+|Trace Wing|[Trace Wing Bio]("/content/characterbios/tracebio.md")|
