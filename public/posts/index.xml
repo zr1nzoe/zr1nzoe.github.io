@@ -6,7 +6,34 @@
     <description>Recent content in Posts on Terminal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 09 Aug 2023 20:23:45 +0100</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 09 Aug 2023 20:58:35 +0100</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test Post 3</title>
+      <link>/posts/test-post-3/</link>
+      <pubDate>Wed, 09 Aug 2023 20:58:35 +0100</pubDate>
+      
+      <guid>/posts/test-post-3/</guid>
+      <description> </description>
+      <content>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/KYxsNJYgrgI&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</content>
+    </item>
+    
+    <item>
+      <title>Test Post 2</title>
+      <link>/posts/test-post-2/</link>
+      <pubDate>Wed, 09 Aug 2023 20:53:57 +0100</pubDate>
+      
+      <guid>/posts/test-post-2/</guid>
+      <description>Boobs Breasts even, tits for those so inclined</description>
+      <content>&lt;h2 id=&#34;boobs&#34;&gt;Boobs&lt;/h2&gt;
+&lt;p&gt;Breasts even, tits for those so inclined&lt;/p&gt;
+</content>
+    </item>
+    
     <item>
       <title>Test Post</title>
       <link>/posts/test-post/</link>
