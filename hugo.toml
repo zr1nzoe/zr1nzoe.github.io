@@ -90,6 +90,14 @@ paginate = 5
         name = "About"
         url = "/about"
       [[languages.en.menu.main]]
-        identifier = "showcase"
-        name = "Showcase"
-        url = "/showcase"
+        identifier = "characterbios"
+        name = "Character Bios"
+        url = "/characterbios"
+	  [[languages.en.menu.main]]
+		identifier = "links"
+		name = "Links"
+		url = "/links"
+	  [[languages.en.menu.main]]
+        identifier = "tools"
+        name = "Useful Tools"
+        url = "/tools"
