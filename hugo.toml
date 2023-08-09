@@ -93,7 +93,7 @@ paginate = 5
       [[languages.en.menu.main]]
         identifier = "characterbios"
         name = "Character Bios"
-        url = "/characterbios"
+        url = "/characterbio"
 		weight = 20
 	  [[languages.en.menu.main]]
 		identifier = "links"
