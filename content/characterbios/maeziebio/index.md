@@ -70,7 +70,6 @@ Maezie is not one to quickly open up her feelings, due to past rejections and he
 
 Due to an incident that Maezie has seemingly no memory off, she is capable of manipulating different forms of energy; The main forms of energy she is known to manipulate are kinetic energy, electrical energy, thermal energy and radioactive energy. As a result of this ability, maezie is capable of manipulating the strength of her attacks by increasing the kinetic energy they have, as well as being able to apply freezing cold or burning hot temperatures to them, as well as low level control over fire and ice. She is also capable of controlling electricity, and is immune to radiation. However, a key drawback to her abilities is that prolonged usage of her abilities can cause damage to her body, with more excessive usage potentially leading to permanent or even fatal damage. The only ability exempt from this is the radiation immunity, an ability that is permanently active at a low level. Gear like the Assault Boots and the Battle Gauntlets do mitigate some of the downsides, but it's not a permanent solution. Only Thorough training and getting used to her powers will allow Maezie to use her powers to their full extent.
 
-
 Outside of her abilities, she also is very physically and mentally adept, due to training from a fairly young age. As a result of this, she is capable of performing feats that far exceed the capabilities of a normal feline.
 
 ---

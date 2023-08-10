@@ -5,27 +5,6 @@
     <link>/tags/</link>
     <description>Recent content in Tags on Z-R1Nzoe&#39;s den</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Wed, 09 Aug 2023 20:53:57 +0100</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>memes</title>
-      <link>/tags/memes/</link>
-      <pubDate>Wed, 09 Aug 2023 20:53:57 +0100</pubDate>
-      
-      <guid>/tags/memes/</guid>
-      <description></description>
-      <content></content>
-    </item>
-    
-    <item>
-      <title>testing</title>
-      <link>/tags/testing/</link>
-      <pubDate>Wed, 09 Aug 2023 20:53:57 +0100</pubDate>
-      
-      <guid>/tags/testing/</guid>
-      <description></description>
-      <content></content>
-    </item>
-    
+    <language>en</language><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
