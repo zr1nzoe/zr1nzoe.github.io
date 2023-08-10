@@ -1,7 +1,16 @@
 ---
-title: "Just a Thought"
-date: 2023-08-10T19:47:00+01:00
-draft: false
+title = "Just a Thought"
+date = "2023-08-09T20:53:57+01:00"
+author = "Z-R1Nzoe"
+authorTwitter = "" #do not include @
+cover = ""
+tags = ["testing", "memes"]
+keywords = ["tits", "boobs"]
+description = "Just testing some shizz"
+showFullContent = false
+readingTime = false
+hideComments = false
+color = "" #color from the theme settings
 ---
 
 # THE ACTUAL FLORP IS CHEESE!?
