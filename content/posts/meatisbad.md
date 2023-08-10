@@ -9,3 +9,7 @@ hideComments = false
 ---
 
 meat is le stinky, eat processed meat substitute
+
+now that I have your attention, how TF do you get the victory royale in fork knife?
+
+Okay, NOW that I have your attention... sus.
