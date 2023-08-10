@@ -2,13 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/posts/just-a-thought/</loc>
+    <lastmod>2023-08-10T19:47:00+01:00</lastmod>
+  </url><url>
+    <loc>/posts/</loc>
+    <lastmod>2023-08-10T19:47:00+01:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2023-08-10T19:47:00+01:00</lastmod>
+  </url><url>
+    <loc>/usefullinks/</loc>
+    <lastmod>2023-08-10T19:28:04+01:00</lastmod>
+  </url><url>
     <loc>/characterbios/</loc>
     <lastmod>2023-08-09T22:30:31+01:00</lastmod>
   </url><url>
     <loc>/characterbios/maeziebio/</loc>
-    <lastmod>2023-08-09T22:30:31+01:00</lastmod>
-  </url><url>
-    <loc>/</loc>
     <lastmod>2023-08-09T22:30:31+01:00</lastmod>
   </url><url>
     <loc>/characterbios/zoebio/</loc>
