@@ -14,7 +14,7 @@ Below is a general guide on the different drones that the Crimson Scale Empire u
 
 ---
 
-1. [Key Notes](#Key Notes)
+1. [Recruited VS Converted](#Recruited VS Converted)
 
 2. [Drone Bodysuit](#Drone Bodysuit)
 
@@ -22,17 +22,11 @@ Below is a general guide on the different drones that the Crimson Scale Empire u
 
 4. [Ranks](#Drone Ranks)
    
-   1. [Baselines](#Baselines)
+   1. [Null to Gamma Grades](#Null to Gamma Grades)
    
-   2. [1st Grade](#1st Grade)
+   2. [Commanders](#Commanders)
    
-   3. [2nd Grade](#2nd Grade)
-   
-   4. [Lieutenants](#Lieutenants)
-   
-   5. [Commanders](#Commanders)
-   
-   6. [Empress & Her Relays](#Empress & Her Relays) 
+   3. [Empress](#Empress) 
 
 5. [Drone Types](#Drone Types)
    
@@ -50,9 +44,17 @@ Below is a general guide on the different drones that the Crimson Scale Empire u
 
 ---
 
-## Key Notes:
+## Recruited Vs Converted:
 
-- When it comes to the drones, not all drones are mind-controlled into submission, as some drones are simply lower ranking members of the CSE that have not been given higher ranking role. With that being said, most drones are usually created by the method of someone being converted into one by a control device, or by direct contact or exposure with a conversion device
+While most of the drones that are part of the Crimson Dragon Empire are made of captured rebels, criminals and political enemies, a larger portion of the empire's drones are actually people who have been recruited to server under the CDE willingly. There are many reasons why someone would join the Crimson Dragon Empire, with benefits being given to those who do willingly chose to join. Some of the key perks and differences from a converted drone are;
+
+- Recruited drones are not forced to use drone sockets for data or to recharge, as recruited drones are given barracks and infirmaries at most CDE bases.
+
+- Recruited drones are allowed to take off their helmets during free time, and during missions are allowed to retract their visors
+
+- Recruited drones are capable of climbing up the ranks through hard work, as opposed to converted drones who are only assigned tasks. Recruited drones are also allowed to be more autonomous (within acceptable guidelines)
+
+- Recruited drones are also given state of the art healthcare, free housing for them and their family in CDE controlled land, as well as a healthy pay-check for their services.
 
 ---
 
@@ -98,21 +100,19 @@ The control mask, akin to the Control Collar, Control bracelet and Control inser
 
 Not all drones are the same, and not just in what specialized role they are designed for; Many drones are ranked by their skills and prowess, especially those who are loyal followers rather than those who have been converted to the caused. As a result, many drones have a rank to them, notified by special colourations on their arms and on their augments.
 
-##### Baselines Drones:
+##### Null to Gamma Grades:
 
-While not an official rank, baselines are the default drones that come from drone conversion methods. Due to their newly formed nature, they lack some of the key components of the higher tier drones, such as the augmentations given to specialized roles and a distinct coloured visor. as a result of this, baselines are more seen as unprocessed drones, rather than actual drones themselves, and are usually short lived as most baselines are given a role as soon as they return to a CSE command base. The bodysuit of a baseline in usually lighter in colouration, as well as lacking a visor like most drones. Baseline drones can also be "Feralized", where the drone's mental state is forced into only primal desires of lust, or rage. While unruly, it is effective when used to clear an entire room of people, and control collars are not readily available, as in the feralized states the claws and genitals of the baseline drone will produce nanites.
+For most of the drones, they will be ranked upon the Grade System. In order, the grades are;
 
-##### Rank #1 Drones:
+- Null Grade - Null grades are the lowest rank of drone, usually given to new recruits that have just started, or to converted drones when they are first converted. Recruited Null grades will usually have the lowest access level, and are usually supervised by Alpha grades to keep them in line
 
-Rank #1's are the backbone of the Crimson Scale Empire, and are the most common type of drones. A default Rank #1 will usually have a standard issue bodysuit with white markings on their upper arms and a light blue visor, as well as being equipped with a standard issue CSE-CA Standard Issue Energy Pistol, Stun Baton and at least one spare control collar or bracelet, should they need to capture an individual. As the lowest rung of drones besides baselines, most of the duties given to a Rank #1 drone will usually be more lower level, either being basic grunt work, or as assistants to higher ranked drones
+- Alpha Grade - Better than null grade, but not by much
 
-##### Rank #2 Drones:
+- Beta Grade - Better than Alpha grade, and the last grade that a converted drone can reach naturally
 
-Rank #2 Drones, as the name would imply, are a rank up from a Rank #1 drone, signified by their yellow arm markings and a yellow tinted visor, as well as a more powerful CSE-CA Enhanced Grade Energy Pistol instead of the standard issue Energy Pistol. Rank #2 drones are usually in charge of groups of multiple Rank #2 drones of around 3 for smaller squads, and upto 20 for an entire platoon of drones. Rank #2 drones are also capable of taking on more advanced roles, such as commanding drone squads for combat, or as research teams. 
+- Delta Grade - Better than Beta grade, and only for recruited drones. Get to control large groups of drones.
 
-##### Lieutenants:
-
-Lieutenants, or Rank #3 Drones, are the highest rank of drone that is not explicitly hand-selected by Zoe herself for that role. As a result of this, Lieutenants have more autonomy than Rank #1 or Rank #2 drones, even being allowed to control bases under the surveillance of a Relay Drone. Lieutenants are usually the apex of a drone type, but can also be in charge of large regiments of multiple drone types depending on the requirements. The Lieutenant is usually noted by having orange markings on their arms, as well as an orange tinted visor, but still only possess a Enhanced Grade Energy pistol by default. 
+- Gamma Grade - The highest tier of drone available, usually given to recruited drones that have shown great skill and prowess, or converted drones that are upgraded by a commander to fit the Gamma grade role. As a gamma grade, they are usually in charge of key stratergic outposts, or as high level guards for commanders. 
 
 ##### Commanders:
 
