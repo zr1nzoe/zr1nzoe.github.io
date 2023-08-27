@@ -15,7 +15,7 @@ paginate = 5
   themeColor = "red"
 
   # if you set this to 0, only submenu trigger will be visible
-  showMenuItems = 2
+  showMenuItems = 4
 
   # show selector to switch language
   showLanguageSelector = false
@@ -68,7 +68,7 @@ paginate = 5
     languageName = "English"
     title = "Z-R1Nzoe's den"
     subtitle = "A simple, retro theme for Hugo"
-    owner = ""
+    owner = "zr1nzoe"
     keywords = ""
     copyright = ""
     menuMore = "Show more"
@@ -95,6 +95,11 @@ paginate = 5
         identifier = "about"
         name = "About"
         url = "/about"
+		weight = 10
+	  [[languages.en.menu.main]]
+        identifier = "odelore"
+        name = "ODE Lore"
+        url = "/odelore"
 		weight = 10
       [[languages.en.menu.main]]
         identifier = "characterbios"
