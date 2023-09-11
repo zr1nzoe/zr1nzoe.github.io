@@ -6,7 +6,7 @@ draft: false
 
 # Z-Crosse Empire - Drone & Droids Guide:
 
-*"If you are reading this list, then either one of two things has happened; 1. You are one of my loyal lieutenants, doing some reading on the different drone types that are at my disposal, or 2. you are a resistance member trying to search for any weaknesses in my drones. If it is the former, then I hope one of these drones may pick your fancy for whatever you need. But, if you are the latter, do know that all my files are encrypted, and any unauthorised reading by those who are not part of my lovely empire would have triggered the silent alarm the moment you saw the page load. By the end of this guide, a drone with a nice control device waiting to be put onto/into you is already nearby. So start running, it makes things more interesting for them". 
+"If you are reading this list, then either one of two things has happened; 1. You are one of my loyal lieutenants, doing some reading on the different drone types that are at my disposal, or 2. you are a resistance member trying to search for any weaknesses in my drones. If it is the former, then I hope one of these drones may pick your fancy for whatever you need. But, if you are the latter, do know that all my files are encrypted, and any unauthorised reading by those who are not part of my lovely empire would have triggered the silent alarm the moment you saw the page load. By the end of this guide, a drone with a nice control device waiting to be put onto/into you is already nearby. So start running, it makes things more interesting for them". 
 
 - *Empress Zoe Crosse.*
 
@@ -30,7 +30,7 @@ Below is a general guide on the different drones that the Z-Crosse Empire uses w
    
    3. Man VS Machine
 
-3. [Extra Details/Trivia](#extra-details/trivia)
+3. [Extra Details/Trivia](#extra-details-&-trivia)
 
 ---
 
@@ -102,7 +102,7 @@ While drones are the core basis of the Z-Crosse Empire, they're not the only wor
 
 ---
 
-## <u>**Extra Details/Trivia:**</u>
+## <u>**Extra Details & Trivia:**</u>
 
 ### Extra Details:
 
