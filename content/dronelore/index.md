@@ -14,7 +14,7 @@ Below is a general guide on the different drones that the Z-Crosse Empire uses w
 
 ---
 
-1. [Drone Details](#Drone-Details)
+1. [Drone Details](#drone-details)
    
    1. A Blank Slate
    
@@ -22,7 +22,7 @@ Below is a general guide on the different drones that the Z-Crosse Empire uses w
    
    3. All the colours of the drone rainbow
 
-2. [Droid Details](#Droid-Details)
+2. [Droid Details](#droid-details)
    
    1. Synthetic Assistance
    
@@ -30,7 +30,7 @@ Below is a general guide on the different drones that the Z-Crosse Empire uses w
    
    3. Man VS Machine
 
-3. [Extra Details/Trivia](#Extra-Details/Trivia)
+3. [Extra Details/Trivia](#extra-details/trivia)
 
 ---
 
