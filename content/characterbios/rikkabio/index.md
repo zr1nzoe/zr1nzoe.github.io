@@ -6,7 +6,7 @@ draft: false
 
 # <u>**Riesha Selene Corpus**</u>
 
-{{< image src="images/Rieshapic.png" alt=Rieshaa Pic" style="float:right" width="500px" >}}
+{{< image src="images/Rieshapic.png" alt="Riesha Pic" style="float:right" width="500px" >}}
 
 1. [About](#about)
 
