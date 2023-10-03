@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "styles.css",
-	"sourceRoot": "E:/Site/Z-R1N.github.io",
+	"sourceRoot": "E:/Assorted Shizz/Site/zr1nzoe.github.io",
 	"sources": [
 		"css/base.scss",
 		"themes/terminal/assets/css/variables.scss",

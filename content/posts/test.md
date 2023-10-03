@@ -6,5 +6,4 @@ draft: false
 
 # Hello, Welcome to my page :D
 
-
 This page is currently very much a work in progress.
