@@ -96,6 +96,11 @@ paginate = 5
         name = "About"
         url = "/about"
 		weight = 10
+	  [[languages.en.menu.main]]
+        identifier = "ama"
+        name = "AskMeAnything"
+        url = "/about.md"
+		weight = 10
       [[languages.en.menu.main]]
         identifier = "characterbios"
         name = "Character Bios"
