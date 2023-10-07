@@ -14,7 +14,7 @@ color = "" #color from the theme settings
 draft = false
 +++
 
-# **<u>Jurassic World, or "How to kill a franchise in 3 movies"</u>**
+# **<u>Jurassic World, or "How to kill hype for a franchise in 3 movies"</u>**
 
 I want to prefice this piece by stating 2 things;
 
