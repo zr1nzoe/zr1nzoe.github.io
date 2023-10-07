@@ -12,7 +12,7 @@ paginate = 5
   contentTypeName = "posts"
 
   # ["orange", "blue", "red", "green", "pink"]
-  themeColor = "red"
+  themeColor = "orange"
 
   # if you set this to 0, only submenu trigger will be visible
   showMenuItems = 4
@@ -66,9 +66,9 @@ paginate = 5
 [languages]
   [languages.en]
     languageName = "English"
-    title = "Z-R1Nzoe's den"
-    subtitle = "A simple, retro theme for Hugo"
-    owner = "zr1nzoe"
+    title = "WispiWitchin's internet Witch hut"
+    subtitle = "A place to put all the things I talk about on"
+    owner = "WispiWitchin"
     keywords = ""
     copyright = ""
     menuMore = "Show more"
@@ -82,7 +82,7 @@ paginate = 5
     words = "words"
 
     [languages.en.params.logo]
-      logoText = "Z-R1Nzoe"
+      logoText = "WispiWitchin"
       logoHomeLink = "/"
 
     [languages.en.menu]
@@ -95,11 +95,6 @@ paginate = 5
         identifier = "about"
         name = "About"
         url = "/about"
-		weight = 10
-	  [[languages.en.menu.main]]
-        identifier = "dronelore"
-        name = "Drone Lore"
-        url = "/dronelore"
 		weight = 10
       [[languages.en.menu.main]]
         identifier = "characterbios"
