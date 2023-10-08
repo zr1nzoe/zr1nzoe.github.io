@@ -98,8 +98,8 @@ paginate = 5
 		weight = 10
 	  [[languages.en.menu.main]]
         identifier = "ama"
-        name = "AskMeAnything"
-        url = "/about.md"
+        name = "Ask Me Anything"
+        url = "/ama"
 		weight = 10
       [[languages.en.menu.main]]
         identifier = "characterbios"

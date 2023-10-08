@@ -223,8 +223,6 @@ In terms of the franchise, I don't hate it, but it's definetly a far cry from th
 
 I won't give this film a number out of ten, or a rating (because rating shit is annoying), but what I will say is that these movies are decent films, but only when viewed from the lense of a popcorn flick
 
-
-
 --- 
 
 Hey, thanks for reading through this entire review ^^
