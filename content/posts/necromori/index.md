@@ -11,6 +11,7 @@ showFullContent = false
 readingTime = false
 hideComments = false
 color = "" #color from the theme settings
+draft = true
 +++
 
 # Necromori:
@@ -20,5 +21,3 @@ Necromori, a pormanteu of "Necrotic" and "Hikikomori", is a written Slice-of-Lif
 ## Characters:
 
 ### Reisha Corpus:
-
-
